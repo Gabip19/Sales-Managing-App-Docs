@@ -1,0 +1,10 @@
+Login cu framework
+plasare comanda
+agentul : poate modifica sau sterge comanda pana e finalizata
+vede doar comenzile lui
+admin vede toate comenzile dar nu face nimic cu ele
+
+
+extinde de la lista modificari
+scoate adauga cos
+pune vizualizare cos din care extinde plaseaza comanda
